@@ -1,3 +1,0 @@
-*This is a project for the book "Concurrent Programming in Java, 2nd Edition"[fn:amazonlink] by Doug Lea*
-
-[fn:amazonlink] http://www.amazon.com/Concurrent-Programming-Java%C2%99-Principles-Pattern/dp/0201310090
